@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-	vector<int>v = { 6, 5, 4, 8, 9 };
+	vector<int>v = { 6, 5, 4, 8, 9, 11 };
 	cout << "Vector: ";
 	for (int a : v)
 	{
